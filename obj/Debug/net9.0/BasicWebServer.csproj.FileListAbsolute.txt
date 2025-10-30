@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\bin\Debug\net9.0\BasicWebServer.exe
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\bin\Debug\net9.0\BasicWebServer.deps.json
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\bin\Debug\net9.0\BasicWebServer.runtimeconfig.json
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\bin\Debug\net9.0\BasicWebServer.dll
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\bin\Debug\net9.0\BasicWebServer.pdb
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\obj\Debug\net9.0\BasicWebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\obj\Debug\net9.0\BasicWebServer.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\obj\Debug\net9.0\BasicWebServer.AssemblyInfo.cs
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\obj\Debug\net9.0\BasicWebServer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\obj\Debug\net9.0\BasicWebServer.sourcelink.json
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\obj\Debug\net9.0\BasicWebServer.dll
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\obj\Debug\net9.0\refint\BasicWebServer.dll
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\obj\Debug\net9.0\BasicWebServer.pdb
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\obj\Debug\net9.0\BasicWebServer.genruntimeconfig.cache
+C:\Users\DELL\Desktop\OAR\C#\Projects\BasicWebServer\BasicWebServer\obj\Debug\net9.0\ref\BasicWebServer.dll
